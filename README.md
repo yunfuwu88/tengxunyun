@@ -6,6 +6,9 @@
 
 **[点击查看腾讯云最新优惠活动及服务器特惠](https://curl.qcloud.com/XeqTLQQr)**
 
+<img width="1128" height="891" alt="d11_pkg" src="https://github.com/user-attachments/assets/da9db517-065e-4d6c-8048-50fbcf5f8425" />
+
+
 ## 一、腾讯云轻量应用服务器优惠价格表
 
 腾讯云轻量应用服务器（Lighthouse）推出多种优惠套餐，包含 2核2G、2核4G、4核4G、4核8G、4核16G 等配置，适合个人建站、博客、Web 应用及开发测试。
